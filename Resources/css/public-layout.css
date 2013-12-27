@@ -1,0 +1,19 @@
+
+header{
+	
+	-webkit-border-radius: 10px 10px 10px;
+	-moz-border-radius: 10px 10px 10px;
+	border-radius: 10px 10px 10px;
+	padding: 10px;
+	margin-bottom: 10px;		
+	background-color:rgba(128,171,255,0.3);
+}
+
+
+header h1{
+	text-align: left;
+	font: bold 1.8em Arial;
+	text-transform: uppercase;
+	
+	
+}

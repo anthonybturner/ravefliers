@@ -1,0 +1,71 @@
+
+#main-area{
+	
+	width: 100%;
+	text-align: center;
+	background-color: #A9C6FF;
+	-webkit-border-radius: 10px 10px 10px;
+	-moz-border-radius: 10px 10px 10px;
+	border-radius: 10px 10px 10px;
+	padding: 30px;
+	
+	
+}
+
+#album-navigation {
+	
+
+}
+#album-navigation li{
+	
+	
+	font: bold 1.0em Arial;
+	text-transform: uppercase;
+	padding-bottom: 5px;
+	background-color: #FFFFFF;
+	color: #000000;
+	-webkit-border-radius: 10px 10px 0 0;
+	-moz-border-radius: 10px 10px 0 0;
+	border-radius: 10px 10px 0 0;
+	
+}
+
+#flierArea{
+	padding-bottom: 10px;
+	background-color:rgba(255,255,255,0.5);
+	-webkit-border-radius: 10px 10px 10px 10px;
+	-moz-border-radius: 10px 10px 10px 10px;
+	border-radius: 10px 10px 10px 10px;
+}
+
+#flierArea img{
+	
+	width: 128px;
+    height: 128px;
+	padding: 5px;
+	margin-left: 10px;
+	
+}
+
+span h4{
+	padding: 15px;
+	background-color:rgba(183,110,184,0.2);
+	
+}
+
+#flierArea #info{
+	
+	float: right;
+	width: 30%;
+	margin: 10px;
+	padding: 15px;
+	background-color:rgba(0, 102, 153,0.3);
+	border: #000000;	
+	-webkit-border-radius: 10px 10px 10px 10px;
+	-moz-border-radius: 10px 10px 010px 10px;
+	border-radius: 10px 10px 10px 10px;
+	
+}
+
+
+

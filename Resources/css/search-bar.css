@@ -1,0 +1,50 @@
+
+#search-area{
+
+	text-align: center;
+	background-color: #BAD1FF;
+	padding: 10px;
+	-webkit-border-radius: 10px 10px 10px 10px;
+	-moz-border-radius: 10px 10px 10px 10px;
+	border-radius: 10px 10px 10px 10px;
+
+	
+	
+}
+
+#search-area label{
+	
+	font: bold 1.3em Arial;
+	text-transform: uppercase;
+	padding-bottom: 5px;
+	color: #262626;
+	
+}
+
+#search-area p{
+	
+	line-height: 1em;
+	padding-bottom: 5px;
+	
+}
+
+#search-area input{
+	
+	width: 80%;
+	text-align: center;
+}
+
+
+#search-results{
+	
+	
+	width: 50%;
+
+	
+}
+
+#search-results img{
+	
+	
+	
+}
